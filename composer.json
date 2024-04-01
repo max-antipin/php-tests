@@ -20,7 +20,7 @@
         "symfony/console": "7.*",
         "symfony/process": "7.*"
     },
-    "autoload-dev": {
+    "autoload": {
         "psr-4": {
             "MaxAntipin\\Composer\\": "Composer/"
         },
